@@ -1,1 +1,1 @@
-## gcc -lncurses -pthread snake.c
+## gcc snake.c -lncurses -pthread 
