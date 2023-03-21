@@ -1,2 +1,2 @@
-`make`
-`./7krugovADA`
+`make
+`./7krugovADA
