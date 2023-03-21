@@ -1,1 +1,1 @@
-## gcc snake.c -lncurses -pthread 
+## Сборка: `gcc snake.c -lncurses -pthread 
