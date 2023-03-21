@@ -1,2 +1,5 @@
-`make
-`./7krugovADA
+## Сборка:
+```bash
+make
+./7krugovADA
+```
