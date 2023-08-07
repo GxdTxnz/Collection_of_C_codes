@@ -1,1 +1,1 @@
-# Full pants of C
+# Проекты на С
